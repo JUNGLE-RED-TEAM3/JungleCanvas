@@ -26,7 +26,10 @@
 ![발표영상 SQUID CANVAS (1)](https://github.com/JUNGLE-RED-TEAM3/JungleCanvas/assets/108510272/4af1eef3-85ad-423a-86db-1a81b52ab5ee)
 
 
-**(스피드 퀴즈 모드 GIF)**
+**(스피드 퀴즈 모드)**
+
+![발표영상 SQUID CANVAS (2)](https://github.com/JUNGLE-RED-TEAM3/JungleCanvas/assets/108510272/b5524fa3-a16a-464d-9cd8-0c740ad7b6e3)
+
 
 
 ## 주요 기능
