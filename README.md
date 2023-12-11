@@ -3,7 +3,8 @@
 
 ### `SquidCanvas`는 공유 캔버스를 활용한 화상 웹 게임'입니다!
 
-![Uploading image.png…]()
+![image](https://github.com/JUNGLE-RED-TEAM3/JungleCanvas/assets/108510272/dae23163-63bb-42d6-b875-3034fc78fbe3)
+
 
 
 
