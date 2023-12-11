@@ -21,7 +21,8 @@
 
 서로의 얼굴을 보며, 그림이라는 매개체로 즐거운 추억을 쌓아보세요!
 
-![발표영상 SQUID CANVAS](https://github.com/JUNGLE-RED-TEAM3/JungleCanvas/assets/108510272/7a2622b9-5706-4c51-acc4-7e755d0bc594)
+**(스파이 퀴즈 모드)**
+![발표영상 SQUID CANVAS (1)](https://github.com/JUNGLE-RED-TEAM3/JungleCanvas/assets/108510272/4af1eef3-85ad-423a-86db-1a81b52ab5ee)
 
 
 **(스피드 퀴즈 모드 GIF)**
